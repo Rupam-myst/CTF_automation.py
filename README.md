@@ -1,4 +1,3 @@
-Of course! I'll simplify it. Here's a streamlined version of the README:
 
 CTF Automation
 ================
