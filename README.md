@@ -1,6 +1,6 @@
 Of course! I'll simplify it. Here's a streamlined version of the README:
 
-PyCTF Automation
+CTF Automation
 ================
 
 This is a personal project repository where I practice automating tasks in Capture The Flag (CTF) challenges using Python. I enjoy solving CTF puzzles and use this repo to experiment with decoding, pattern extraction, and other automation techniques.
